@@ -1,11 +1,16 @@
 
-I am an assistant professor of higher education and policy at the University of Florida. I am a quantitative researcher with an interest in applying all things data science to higher education policy research.
+I am an assistant professor of higher education and policy at the University of Florida. As a researcher, I have an interest in applying all things data science to higher education policy research. I teach a number of classes, including one to introduce quantitative workflow using R for PhD/EdD students.
 
 ### Packages
-- :parrot: [rscorecard: R wrapper for U.S. Department of Education College Scorecard Data API](https://www.btskinner.io/rscorecard/)
-- :parrot: [crosswalkr: Rename and encode variables using external crosswalk files](https://www.btskinner.io/crosswalkr/)
-- :parrot: [duawranglr: R Package to Securely Wrangle Dataset According to Data Usage Agreement](https://www.btskinner.io/duawranglr/)
-- :snake: [grm: GitHub CLI classroom manager](https://www.btskinner.io/grm/)
+- [R] [rscorecard: R wrapper for U.S. Department of Education College Scorecard Data API](https://www.btskinner.io/rscorecard/)
+- [R] [crosswalkr: Rename and encode variables using external crosswalk files](https://www.btskinner.io/crosswalkr/)
+- [R] [duawranglr: R Package to Securely Wrangle Dataset According to Data Usage Agreement](https://www.btskinner.io/duawranglr/)
+- [Python] [grm: GitHub CLI classroom manager](https://www.btskinner.io/grm/)
+
+### Course/lessons focused on coding/quantitative research
+- [R] [EDH7916: Contemporary research in higher education](https://edquant.github.io/edh7916/)
+- [R] [Workshop on R](https://www.btskinner.io/rworkshop/)
+- [Stata] [LPO9951: PhD student research practicum](https://www.btskinner.io/lpo9951/)
 
 ### Replication files
 Each paper is linked in the repository README or [on my webpage](https://www.btskinner.io/publications/) (contact me if you need access)
@@ -15,6 +20,6 @@ Each paper is linked in the repository README or [on my webpage](https://www.bts
 - [Doyle, W. R., & Skinner, B. T. (2016). Estimating the education-earnings equation using geographic variation. Economics of Education Review, 53, 254–267](https://github.com/wdoyle42/educ_earnings)
 
 ### General
-- 😄 Pronouns: he/him/his
-- 📫 How to reach me: btskinner \<at\> coe \<dot\> ufl \<dot\> edu or btskinner on Twitter
-- :earth_americas: [btskinner.io](https://www.btskinner.io)
+- Pronouns: he/him/his
+- Contact: btskinner \<at\> coe \<dot\> ufl \<dot\> edu or btskinner on Twitter
+- Website: [btskinner.io](https://www.btskinner.io)
