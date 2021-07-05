@@ -14,7 +14,7 @@ I am an assistant professor of higher education and policy at the University of 
 
 ### Replication files
 Each paper is linked in the repository README or [on my webpage](https://www.btskinner.io/publications/) (contact me if you need access)
-- [Skinner, B.T. & Doyle, W.R. (forthcoming). Are civic returns to higher education different across subpopulations? An analysis using propensity forests. _Journal of Education Finance_.](https://github.com/btskinner/civic_returns_pf_rep)
+- [Skinner, B.T. & Doyle, W.R. (2021). Are civic returns to higher education different across subpopulations? An analysis using propensity forests. _Journal of Education Finance_, 46(4), 519–562.](https://github.com/btskinner/civic_returns_pf_rep)
 - [Skinner, B.T. (2019). Making the connection: Broadband access and online course enrollment at public open admissions institutions. _Research in Higher Education_, 1-40.](https://github.com/btskinner/oa_online_broadband_rep)
 - [Skinner, B.T. (2019). Choosing College in the 2000s: An Updated Analysis Using the Conditional Logistic Choice Model. _Research in Higher Education_, 60(2), 153–183.](https://github.com/btskinner/colchoice_rep)
 - [Doyle, W.R., & Skinner, B.T. (2017). Does Postsecondary Education Result in Civic Benefits? _The Journal of Higher Education_, 88(6), 863–893.](https://github.com/wdoyle42/ps_civic)
