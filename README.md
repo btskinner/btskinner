@@ -14,6 +14,7 @@ I am an assistant professor of higher education and policy at the University of 
 
 ### Replication files
 Each paper is linked in the repository README or [on my webpage](https://www.btskinner.io/publications/) (contact me if you need access)
+- [Skinner, B.T. & Doyle, W.R. (2022) Predicting postsecondary attendance by family income in the United States using multilevel regression with poststratification. _SSRN_](http://dx.doi.org/10.2139/ssrn.3054231)
 - [Ortagus, J.C., Skinner, B.T. & Tanner, M. (2021). Investigating Why Academically Successful Community College Students Leave College Without a Degree. _AERA Open_, 7(1), 1-17.](https://github.com/btskinner/investigating_mrp_rep)
 - [Skinner, B.T. & Doyle, W.R. (2021). Are civic returns to higher education different across subpopulations? An analysis using propensity forests. _Journal of Education Finance_, 46(4), 519–562.](https://github.com/btskinner/civic_returns_pf_rep)
 - [Skinner, B.T. (2019). Making the connection: Broadband access and online course enrollment at public open admissions institutions. _Research in Higher Education_, 60(7), 960–999.](https://github.com/btskinner/oa_online_broadband_rep)
