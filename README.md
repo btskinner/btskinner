@@ -5,6 +5,7 @@ I am an assistant professor of higher education and policy at the University of 
 - [R] [rscorecard: R wrapper for U.S. Department of Education College Scorecard Data API](https://www.btskinner.io/rscorecard/)
 - [R] [crosswalkr: Rename and encode variables using external crosswalk files](https://www.btskinner.io/crosswalkr/)
 - [R] [duawranglr: R Package to Securely Wrangle Dataset According to Data Usage Agreement](https://www.btskinner.io/duawranglr/)
+- [R] [distRcpp: Compute Geodesic Distance and Distance-Weighted Measures Using Rcpp](https://www.btskinner.io/distRcpp/)
 - [Python] [grm: GitHub CLI classroom manager](https://www.btskinner.io/grm/)
 
 ### Course/lessons focused on coding/quantitative research
