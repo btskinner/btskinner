@@ -15,8 +15,8 @@ I am an assistant professor of higher education and policy at the University of 
 
 ### Replication files
 Each paper is linked in the repository README or [on my webpage](https://www.btskinner.io/publications/) (contact me if you need access)
+- [Skinner, B.T., Levy, H., and Burtch, T. (forthcoming) Digital redlining: the relevance of 20th century housing policy to 21st century broadband access and education. _Educational Policy_](https://github.com/btskinner/bb_holc_rep)
 - [Skinner, B.T., Burtch, T., and Levy, H. (2022) Variation in broadband access among undergraduate populations across the United States. _Annenberg Institute at Brown University_ (EdWorkingPaper: 22-667)](https://github.com/btskinner/bb_desc_rep)
-- [Skinner, B.T., Levy, H., and Burtch, T. (2021) Digital redlining: the relevance of 20th century housing policy to 21st century broadband access and education. _Annenberg Institute at Brown University_ (EdWorkingPaper: 21-471)](https://github.com/btskinner/bb_holc_rep)
 - [Skinner, B.T. & Doyle, W.R. (2022) Predicting postsecondary attendance by family income in the United States using multilevel regression with poststratification. _SSRN_](https://github.com/btskinner/lowinc_enroll_mrp_rep)
 - [Ortagus, J.C., Skinner, B.T. & Tanner, M. (2021). Investigating Why Academically Successful Community College Students Leave College Without a Degree. _AERA Open_, 7(1), 1-17.](https://github.com/btskinner/investigating_mrp_rep)
 - [Skinner, B.T. & Doyle, W.R. (2021). Are civic returns to higher education different across subpopulations? An analysis using propensity forests. _Journal of Education Finance_, 46(4), 519–562.](https://github.com/btskinner/civic_returns_pf_rep)
