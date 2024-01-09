@@ -1,6 +1,4 @@
 
-I am an assistant professor of higher education and policy at the University of Florida. As a researcher, I have an interest in applying all things data science to higher education policy research. I teach a number of classes, including one to introduce quantitative workflow using R for PhD/EdD students.
-
 ### Packages
 - [R] [rscorecard: R wrapper for U.S. Department of Education College Scorecard Data API](https://www.btskinner.io/rscorecard/)
 - [R] [crosswalkr: Rename and encode variables using external crosswalk files](https://www.btskinner.io/crosswalkr/)
