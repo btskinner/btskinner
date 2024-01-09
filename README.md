@@ -27,5 +27,4 @@ Each paper is linked in the repository README or [on my webpage](https://www.bts
 
 ### General
 - Pronouns: he/him/his
-- Contact: btskinner \<at\> coe \<dot\> ufl \<dot\> edu or btskinner on Twitter
 - Website: [btskinner.io](https://www.btskinner.io)
