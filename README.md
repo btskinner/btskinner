@@ -14,9 +14,9 @@
 
 ### Replication files
 Each paper is linked in the repository README or [on my webpage](https://www.btskinner.io/publications/) (contact me if you need access)
-- [Skinner, B.T., Burtch, T., and Levy, H. (forthcoming) Variation in broadband access among undergraduate populations across the United States. _Research in Higher Education_](https://github.com/btskinner/bb_desc_rep)
-- [Skinner, B.T. & Doyle, W.R. (forthcoming) Predicting postsecondary attendance by family income in the United States using multilevel regression with poststratification. _Economics of Education Review_](https://github.com/btskinner/lowinc_enroll_mrp_rep)
-- [Skinner, B.T., Levy, H., and Burtch, T. (forthcoming) Digital redlining: the relevance of 20th century housing policy to 21st century broadband access and education. _Educational Policy_](https://github.com/btskinner/bb_holc_rep)
+- [Skinner, B.T., Burtch, T., and Levy, H. (2024) Variation in broadband access among undergraduate populations across the United States. _Research in Higher Education_](https://github.com/btskinner/bb_desc_rep)
+- [Skinner, B.T. & Doyle, W.R. (2024) Predicting postsecondary attendance by family income in the United States using multilevel regression with poststratification. _Economics of Education Review_](https://github.com/btskinner/lowinc_enroll_mrp_rep)
+- [Skinner, B.T., Levy, H., and Burtch, T. (2023) Digital redlining: the relevance of 20th century housing policy to 21st century broadband access and education. _Educational Policy_](https://github.com/btskinner/bb_holc_rep)
 - [Ortagus, J.C., Skinner, B.T. & Tanner, M. (2021). Investigating Why Academically Successful Community College Students Leave College Without a Degree. _AERA Open_, 7(1), 1-17.](https://github.com/btskinner/investigating_mrp_rep)
 - [Skinner, B.T. & Doyle, W.R. (2021). Are civic returns to higher education different across subpopulations? An analysis using propensity forests. _Journal of Education Finance_, 46(4), 519–562.](https://github.com/btskinner/civic_returns_pf_rep)
 - [Skinner, B.T. (2019). Making the connection: Broadband access and online course enrollment at public open admissions institutions. _Research in Higher Education_, 60(7), 960–999.](https://github.com/btskinner/oa_online_broadband_rep)
