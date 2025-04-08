@@ -1,10 +1,15 @@
 
 ### Packages
+- [R] [ripeds: Download and Manipulate Integrated Postsecondary Education Data System (IPEDS) Data](https://nehgov.github.io/ripeds/)
 - [R] [rscorecard: R wrapper for U.S. Department of Education College Scorecard Data API](https://www.btskinner.io/rscorecard/)
 - [R] [crosswalkr: Rename and encode variables using external crosswalk files](https://www.btskinner.io/crosswalkr/)
 - [R] [duawranglr: R Package to Securely Wrangle Dataset According to Data Usage Agreement](https://www.btskinner.io/duawranglr/)
 - [R] [distRcpp: Compute Geodesic Distance and Distance-Weighted Measures Using Rcpp](https://www.btskinner.io/distRcpp/)
 - [Python] [grm: GitHub CLI classroom manager](https://www.btskinner.io/grm/)
+
+### Useful data files
+- [JSON] [usa_territory_topojson: US states + territory topojson files and scripts](https://github.com/nehgov/usa_territory_topojson)
+- [JSON] [staterbin: Code to produce state / territory tile choropleth maps + geojson/topojson files](https://github.com/nehgov/staterbin)
 
 ### Course/lessons focused on coding/quantitative research
 - [R] [A Gentle Introduction to Bayesian Analysis with Applications to QuantCrit](https://www.btskinner.io/ashe_bayes/)
